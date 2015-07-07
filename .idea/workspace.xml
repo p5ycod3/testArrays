@@ -2,7 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="bc31008b-3f5a-4b6d-8e43-45b2604da29a" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/test/ua/mywork/arrays/ArrayHelperTest.java" afterPath="$PROJECT_DIR$/test/ua/mywork/arrays/ArrayHelperTest.java" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="testArrays.iws" />
@@ -48,8 +47,8 @@
       <file leaf-file-name="ArrayHelperTest.java" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/test/ua/mywork/arrays/ArrayHelperTest.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.25233644">
-              <caret line="9" column="30" selection-start-line="9" selection-start-column="30" selection-end-line="9" selection-end-column="30" />
+            <state vertical-scroll-proportion="0.6168224">
+              <caret line="25" column="5" selection-start-line="25" selection-start-column="5" selection-end-line="25" selection-end-column="5" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -544,7 +543,13 @@
       <option name="project" value="LOCAL" />
       <updated>1436249922772</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="commit arrays test">
+      <created>1436252755216</created>
+      <option name="number" value="00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1436252755216</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="ToolWindowManager">
@@ -815,8 +820,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/test/ua/mywork/arrays/ArrayHelperTest.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.25233644">
-          <caret line="9" column="30" selection-start-line="9" selection-start-column="30" selection-end-line="9" selection-end-column="30" />
+        <state vertical-scroll-proportion="0.6168224">
+          <caret line="25" column="5" selection-start-line="25" selection-start-column="5" selection-end-line="25" selection-end-column="5" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
